@@ -1,0 +1,5 @@
+{
+  "name": "TW Stock AI Pro - 台股 AI 戰情室",
+  "description": "由 Gemini AI 驅動的先進台股分析儀表板。獲取來自 FinMind 的即時數據、互動式圖表，以及由 Google 最新 AI 模型生成的深度技術與基本面報告。",
+  "requestFramePermissions": []
+}
